@@ -144,7 +144,7 @@ main .quick {
 }
 
 .quick li:nth-child(1) a .icon {
-    background-image: url(../images/icon-cart.png);
+    background-image: url(/images/icon-cart.png);
 }
 
 .quick li:nth-child(2) a .icon {
@@ -181,15 +181,15 @@ main .slide_wrap li.on {
 }
 
 main .slide_wrap li.slide1 {
-    background-image: url(/images/banner-1.jpg);
+    background-image: url(../images/banner-1.jpg);
 }
 
 main .slide_wrap li.slide2 {
-    background-image: url(/images/banner-2.jpg);
+    background-image: url(../images/banner-2.jpg);
 }
 
 main .slide_wrap li.slide3 {
-    background-image: url(/images/banner-3.jpg);
+    background-image: url(../images/banner-3.jpg);
 }
 
 main .slide_wrap li .textBox {
