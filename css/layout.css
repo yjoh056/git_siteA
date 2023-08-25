@@ -1,0 +1,53 @@
+.wrap {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* HEADER */
+header {
+    width: 100%;
+    max-width: 200px;
+    height: 850px;
+}
+
+header .logo {
+    margin-top: 4rem;
+    width: 200px;
+    height: 40px;
+}
+
+/* //header */
+
+/* MAIN */
+main {
+    width: 100%;
+    max-width: calc(100% - 200px);
+}
+
+main .slide {
+    width: 100%;
+    height: 400px;
+}
+
+main .banner {
+    width: 100%;
+    height: 200px;
+    /* 시험문제이기때문에 높이지정 */
+}
+
+main .board {
+    width: 100%;
+    height: 250px;
+}
+
+
+/* //main */
+
+/* FOOTER */
+footer {
+    width: 100%;
+    height: 120px;
+}
+
+/* //footer */
