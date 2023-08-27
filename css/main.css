@@ -144,7 +144,7 @@ main .quick {
 }
 
 .quick li:nth-child(1) a .icon {
-    background-image: url(/images/icon-cart.png);
+    background-image: url(../images/icon-cart.png);
 }
 
 .quick li:nth-child(2) a .icon {
